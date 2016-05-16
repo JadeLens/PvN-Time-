@@ -1,0 +1,6 @@
+PvN/Library/
+PvN/.vs/
+*.csproj
+*.sln
+*.suo
+PvN/obj/
